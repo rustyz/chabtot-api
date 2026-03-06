@@ -8,3 +8,4 @@ tiktoken
 numpy
 pandas
 psycopg2-binary
+sentence-transformers
