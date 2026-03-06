@@ -17,7 +17,7 @@ DB_CONFIG = {
 }
 
 # Embedding model name
-EMBEDDING_MODEL_NAME = "all-MiniLM-L6-v2"
+EMBEDDING_MODEL_NAME = "sentence-transformers/paraphrase-MiniLM-L3-v2"
 
 # Retrieval settings
 TOP_K = 3
