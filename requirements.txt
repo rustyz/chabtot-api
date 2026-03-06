@@ -1,0 +1,10 @@
+flask
+flask-cors
+gunicorn
+langchain
+faiss-cpu
+openai
+tiktoken
+numpy
+pandas
+psycopg2-binary
