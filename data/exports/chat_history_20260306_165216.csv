@@ -1,0 +1,17 @@
+id,session_id,user_message,bot_response,created_at
+a9c63663-1c73-4a52-85d5-160220df3802,test123,What services does IDEAM provide?,"expert support in data analytics, biotechnology, and environmental science.",2026-03-04 14:57:07.408974
+8ab818bb-0965-4a68-bee6-a9e5fbfbd835,test123,What services does IDEAM provide?,"expert support in data analytics, biotechnology, and environmental science.",2026-03-04 16:14:57.250226
+babee122-c70c-415f-a6a6-586eaf4552be,test123,What services does IDEAM provide?,"expert support in data analytics, biotechnology, and environmental science.",2026-03-06 13:23:56.245406
+fbc64f2d-55a3-4b2d-b028-ec0062790f90,test_user,What is IDEAM?,an innovative national industry cluster.,2026-03-06 15:44:05.030710
+6e495b71-a9fb-46ce-9667-13e339ed60be,test_user,what is ideam,an innovative national industry cluster.,2026-03-06 16:21:45.747077
+11c32663-e496-4d19-b17b-cae0b3c9c915,user_g9pyuraimvr,what is ideam?,an innovative national industry cluster.,2026-03-06 16:36:25.195496
+ffb6452c-14c0-4e07-b489-d8d863df731c,user_g9pyuraimvr,where is it located ?,"Moylish, Campus, Co. Limerick.",2026-03-06 16:38:20.654225
+bc339874-a399-47b4-876a-16d2ea0af52c,user_h0xmfw1qa74,What is IDEAM?,an innovative national industry cluster.,2026-03-06 16:42:15.674221
+41e49586-9e5e-4a6e-bb5c-a6928723ed07,user_o7rkzyvtdoo,What is IDEAM?,an innovative national industry cluster.,2026-03-06 16:43:16.420474
+a9867ca1-dd37-4a4b-a282-d5bd4687ea46,user_h0xmfw1qa74,Where is it located?,Co. Limerick.,2026-03-06 16:43:40.278442
+8892a2a3-596c-40b8-8a8f-f61bc0798b17,user_h0xmfw1qa74,How many people work there?,2).,2026-03-06 16:43:55.648825
+52ea0b2d-9b84-4573-85f3-b676c942ed78,user_h0xmfw1qa74,What are the services?,"We provide customized training modules for manufacturers’ employees, enabling upskilling through collaborative ‘on-the-project’ research with our team. Multiple automation interconnected systems mimic real-world scenarios for comprehensive testing.",2026-03-06 16:44:13.518289
+29adc01e-387a-405c-9b82-debdaf1d8516,user_o7rkzyvtdoo,what is Ideam?,an innovative national industry cluster.,2026-03-06 16:44:51.323365
+c17f6206-4f3f-459b-8377-d8fb9dc0530b,user_cgmpznlume,Hi,a).,2026-03-06 16:44:55.948314
+7a5306ab-6a1a-45f5-abee-eb8574d14cfb,user_cgmpznlume,Ideam,a leading research organization dedicated to pioneering discoveries and developing technologies that address critical global challenges.,2026-03-06 16:45:21.279399
+7b739c68-cae1-4ffc-b3d3-d014cd429cbd,user_cgmpznlume,What's skills4circularity,"Upskilling and reskilling the textile industry sector to face the challenges in recycling, traceability and certification of recycled products.",2026-03-06 16:45:49.982073
